@@ -1,0 +1,9 @@
+3 * 5 = 15.00
+3 + 4 = 7.00
+5 + 4785 = 4790.00
+7 + 7 = 14.00
+3 3 4 = Wrong operator
+4 / 2 = 2.0
+35 / 0 = Division by zero is not allowed.
+3 t 3 = Wrong operator
+5 / 0 = Division by zero is not allowed.
